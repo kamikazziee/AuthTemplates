@@ -1,4 +1,5 @@
 YK2 e_auth_element_karaoke_denmoku Karaoke_Denmoku 196
 
+uint32 version
 uint32 karaoke_chara_id_singer
 uint32 karaoke_chara_id_cheer

@@ -1,0 +1,4 @@
+YK2 e_auth_element_down_se Down_SE 153
+
+uint32 version
+uint32 down_type

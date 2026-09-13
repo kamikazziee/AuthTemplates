@@ -1,0 +1,7 @@
+YK2 e_auth_element_blink Blink 137
+
+uint32 eye_type
+uint32 padding1
+uint32 padding2
+uint32 padding3
+animationcurve anim 32

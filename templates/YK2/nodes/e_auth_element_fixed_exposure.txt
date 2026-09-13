@@ -1,0 +1,4 @@
+YK2 e_auth_element_fixed_exposure Fixed_Exposure 108
+
+float fixed_exposure
+fanimationcurve anim_data 32

@@ -1,0 +1,7 @@
+YK2 e_auth_element_camera_shake_loop Camera_Shake_Loop 134
+
+uint32 camera_shake_id
+float speed
+uint32 padding1
+uint32 padding2
+fanimationcurve anim_scale 64

@@ -1,0 +1,4 @@
+YK2 e_auth_element_contrast_correction contrast_correction 167
+
+float shadow
+float highlight

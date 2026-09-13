@@ -1,0 +1,13 @@
+YK2 e_auth_element_point_light_animation Point_Light_Animation 79
+
+float _pos_x
+float _pos_y
+float _pos_z
+rgb32 color_b
+float luminance_b
+rgb32 color_a
+float luminance_a
+float radius
+float range
+fanimationcurve color_anim_data 32
+fanimationcurve luminance_anim_data 32

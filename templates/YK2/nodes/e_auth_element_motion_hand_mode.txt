@@ -1,0 +1,4 @@
+YK2 e_auth_element_motion_hand_mode Motion_Hand_Mode 125
+
+uint32 uint32 motion_hand_modify_mode_id_left
+uint32 uint32 motion_hand_modify_mode_id_right

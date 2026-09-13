@@ -1,0 +1,6 @@
+YK2 e_auth_element_blink Blink 135
+
+uint32 flag
+uint32 padding1
+uint32 padding2
+uint32 padding3

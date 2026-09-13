@@ -1,0 +1,12 @@
+YK2 e_auth_element_wrinkles Wrinkles 60
+
+float current_ratio
+float _forehead_ratio
+float _brow_ratio   
+float _eye_left_ratio
+float _eye_right_ratio
+float _nose_left_ratio
+float _nose_right_ratio
+float _mouse_left_ratio
+float _mouse_right_ratio
+fanimationcurve anim_data 32

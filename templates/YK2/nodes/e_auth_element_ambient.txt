@@ -1,0 +1,11 @@
+YK2 e_auth_element_ambient Ambient 39
+
+rgb32 color
+int32 kelvin
+float luminance
+rgb32 color_b
+int32 kelvin_b
+float luminance_b
+int32 rot_x
+int32 rot_y
+int32 edit_kind

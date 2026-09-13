@@ -1,0 +1,5 @@
+YK2 e_auth_element_camera_finish_battle Camera_Finish_Battle 91
+
+int32 disable_draw_disable
+int32 ignore_enemy
+fanimationcurve anim_data 32

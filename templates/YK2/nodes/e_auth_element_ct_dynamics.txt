@@ -1,0 +1,6 @@
+YK2 e_auth_element_ct_dynamics ct_dynamics 275
+
+uint32 ct_dynamics_type_id
+uint32 flag_played
+uint32 padding1
+uint32 padding2

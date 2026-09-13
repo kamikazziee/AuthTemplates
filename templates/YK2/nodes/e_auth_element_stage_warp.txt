@@ -1,0 +1,3 @@
+YK2 e_auth_element_stage_warp Stage_Warp 193
+
+uint32 position_stage_warp_id

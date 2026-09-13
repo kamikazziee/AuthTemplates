@@ -1,0 +1,5 @@
+YK2 e_auth_element_hide_character hide_character 315
+
+int64 uid
+uint32 padding1
+uint32 padding2

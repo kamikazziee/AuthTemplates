@@ -1,0 +1,3 @@
+YK2 e_auth_element_auth_light_ratio auth_light_ratio 121
+
+fanimationcurve anim_data 32

@@ -1,0 +1,5 @@
+YK2 e_auth_element_movie_tex Movie_Tex 54
+
+uint32 tex_idx
+fixedstring movie_name 256
+

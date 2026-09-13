@@ -1,0 +1,6 @@
+YK2 e_auth_element_equip_asset_hide Equip_Asset_Hide 149
+
+uint32 attachment_combination_id
+uint32 padding1
+uint32 padding2
+uint32 padding3

@@ -1,0 +1,6 @@
+YK2 e_auth_element_stage_load_point Stage_Load_Point 127
+
+float position_x
+float position_y
+float position_z
+int32 use_global_offset

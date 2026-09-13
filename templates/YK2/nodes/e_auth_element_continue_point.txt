@@ -1,0 +1,3 @@
+YK2 e_auth_element_continue_point Continue_Point 90
+
+uint32 continue_point_idx

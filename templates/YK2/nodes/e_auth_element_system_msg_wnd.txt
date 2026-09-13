@@ -1,0 +1,6 @@
+YK2 e_auth_element_system_msg_wnd system_msg_wnd 232
+
+uint32 talk_system_msg_id
+uint32 auth_sys_msg_wnd_wait_id
+uint32 padding1
+uint32 padding2

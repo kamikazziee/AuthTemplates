@@ -1,0 +1,8 @@
+YK2 e_auth_element_effect_asset_break Effect_Asset_Break 145
+
+uint32 version
+uint32 confetti_num
+uint64 confetti_puid
+uint64 splash_liquid_puid
+float confetti_spd0_y
+float splash_liquid_density

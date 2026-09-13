@@ -1,0 +1,3 @@
+YK2 e_auth_element_asset_connect_out asset_connect_out 316
+
+uint32 is_oneshot

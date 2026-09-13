@@ -1,0 +1,9 @@
+YK2 e_auth_element_asset_break_uid asset_break_uid 268
+
+uint32 version
+uint32 blast
+uint64 uid
+float dir_ax
+float dir_ay
+float dir_az
+int32 is_replace

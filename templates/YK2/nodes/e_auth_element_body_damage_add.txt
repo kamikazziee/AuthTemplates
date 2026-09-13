@@ -1,0 +1,15 @@
+YK2 e_auth_element_body_damage_add body_damage_add 33
+
+uint32 version
+uint32 node_command_ofs
+float local_val0
+float local_val1
+float local_val_rand
+float local_dir_x
+float local_dir_y
+float local_dir_z
+float local_dir_rand_rate
+uint32 blend_op
+float dry_rate
+uint32 padding0
+uint32 puid

@@ -1,0 +1,21 @@
+Y5 e_auth_element_point_light_source PointLightSource 43
+
+float pos_x
+float pos_y
+float pos_z
+rgb32 color
+float intensity
+float radius
+uint32 flagmaybe
+uint32 flag2maybe
+uint32 unknown
+fixedstring anim_file 32
+uint32 flag3maybe
+uint32 unknown
+uint32 flag4maybe
+uint32 flag5maybe
+rgb32 color_2
+float intensity_2
+float radius_2
+fanimationcurve anim_1 32
+fanimationcurve anim_2 32

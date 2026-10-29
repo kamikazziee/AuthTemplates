@@ -1,0 +1,4 @@
+Y5 e_auth_element_texture_change Texture_Change 100
+
+fixedstring OriginalTex 32
+fixedstring ReplaceTex 32

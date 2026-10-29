@@ -1,0 +1,3 @@
+Y5 e_auth_element_hactend HActEnd 73
+
+uint32 chain_camera

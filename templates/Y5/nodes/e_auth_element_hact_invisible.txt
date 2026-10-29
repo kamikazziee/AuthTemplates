@@ -1,0 +1,6 @@
+Y5 e_auth_element_hact_invisible HActInvisible 70
+
+uint32 flagsprobably
+uint32 enemy
+uint32 player
+uint32 wanderer

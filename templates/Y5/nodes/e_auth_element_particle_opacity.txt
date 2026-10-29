@@ -1,0 +1,6 @@
+Y5 e_auth_element_particle_opacity ParticleOpacity 4
+
+uint32 pibID
+float opacity
+uint32 inframemaybe
+uint32 outframemaybe

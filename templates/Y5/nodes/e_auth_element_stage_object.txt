@@ -1,0 +1,4 @@
+Y5 e_auth_element_stage_object StageObject 24
+
+int32 _stageObjectId
+uint32 _dispStageObject

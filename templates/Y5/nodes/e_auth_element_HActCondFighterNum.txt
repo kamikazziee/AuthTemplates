@@ -1,0 +1,5 @@
+Y5 e_auth_element_hactcondfighternum HActCondFighterNum 98
+
+uint32 flagNo
+uint32 Param
+uint32 NotFlag

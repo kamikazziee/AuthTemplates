@@ -1,0 +1,11 @@
+LAD7Gaiden e_auth_element_camera_setting Camera_Setting 63
+
+uint32 shutter_speed
+uint32 iso_sensitivity
+float exposure_fnumber
+int32 exposure_f_number_enable;
+float sensor_size
+uint32 white_balance
+float exposure_fnumber_after
+uint32 iso_sensitivity_after
+fanimationcurve animation_curve 32 

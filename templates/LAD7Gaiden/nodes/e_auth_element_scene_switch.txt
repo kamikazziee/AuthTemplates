@@ -1,0 +1,4 @@
+LAD7Gaiden e_auth_element_scene_switch SceneSwitch 191
+
+uint32 m_config_id
+uint32 m_position

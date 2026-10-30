@@ -1,0 +1,10 @@
+LAD7Gaiden e_auth_element_clip_control Clip_Control 13
+
+uint32 enable_after
+float before_clip_near
+float before_clip_far
+float after_clip_near
+float after_clip_far
+uint32 use_far
+uint32 unk1
+uint32 unk2

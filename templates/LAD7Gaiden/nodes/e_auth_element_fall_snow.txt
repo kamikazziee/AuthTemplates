@@ -1,0 +1,27 @@
+LAD7Gaiden e_auth_element_fall_snow FallSnow 274
+
+uint32 unused
+uint32 unused2
+uint32 unused3
+float flowmap_size
+float flowmap_shift_spd_x
+float flowmap_shift_spd_y
+float flowmap_shift_spd_z
+float flow_spd
+float gflow_spd_x
+float gflow_spd_y
+float gflow_spd_z
+float radius0
+float radius1
+float proj_radius
+float alpha
+float color_r
+float color_g
+float color_b
+float bg0_intensity
+float bg0_monochrome
+float bg1_intensity
+float bg1_monochrome
+uint32 ptcl_dispatch_num
+float attenuation_rate
+uint32 ptcl_dispatch_unit

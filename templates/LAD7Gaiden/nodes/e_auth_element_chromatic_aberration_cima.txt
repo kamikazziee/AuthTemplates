@@ -1,0 +1,19 @@
+LAD7Gaiden e_auth_element_chromatic_aberration_cima Chromatic_Aberration_Cima 35
+
+float center_u
+float center_v
+float vec_scale_r
+float vec_scale_g
+float vec_scale_b
+float alpha
+float fade_start
+float fade_length
+float fade_reverse
+float padding1
+float padding2
+float padding3
+float padding4
+float padding5
+float padding6
+float padding7
+animationcurve anim 32

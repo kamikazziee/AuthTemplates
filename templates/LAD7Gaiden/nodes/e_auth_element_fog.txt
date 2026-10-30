@@ -1,0 +1,35 @@
+LAD7Gaiden e_auth_element_fog Fog 60
+
+uint32 _disable
+float _near
+float _far 
+float _nearfar_curve 
+float _low 
+float _high
+float _highlow_curve 
+float _sun_inner     
+float _sun_outer     
+float _sun_curve     
+float _sky_color_r   
+float _sky_color_g   
+float _sky_color_b   
+uint32 _sky_color_kelvine
+float _sky_color_luminance
+float _ground_color_r
+float _ground_color_g
+float _ground_color_b
+uint32 _ground_color_kelvine
+float _ground_color_luminance
+float _sun_color_r   
+float _sun_color_g   
+float _sun_color_b   
+uint32 _sun_color_kelvine
+float _sun_color_luminance
+float _pos_x  
+float _pos_y  
+float _pos_z  
+float _tyndall_color_r
+float _tyndall_color_g
+float _tyndall_color_b
+uint32 _tyndall_color_kelvine
+float _tyndall_color_luminance

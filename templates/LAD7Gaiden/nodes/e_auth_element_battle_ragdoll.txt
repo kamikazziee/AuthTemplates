@@ -1,0 +1,8 @@
+LAD7Gaiden e_auth_element_battle_ragdoll Battle_Ragdoll 73
+
+float speed_x_direction
+float speed_y_direction
+float speed_z_direction
+float trajectory_x_direction
+float trajectory_y_direction
+float trajectory_z_direction

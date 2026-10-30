@@ -1,0 +1,12 @@
+LAD7Gaiden e_auth_element_directional_light Directional_Light 34
+
+float _dir_x
+float _dir_y
+float _dir_z
+rgb32 color
+uint32 kelvin
+float luminance
+int32 flags
+float _rotate_y
+fanimationcurve animation_curve 256
+float dark_light_ratio

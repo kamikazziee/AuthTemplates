@@ -1,0 +1,17 @@
+LAD7Gaiden e_auth_element_post_effect_dolly_blur PostEffectDollyBlur 393
+
+float param_u
+float param_v
+float param_alpha
+float param_scale
+uint32 param_mask_use
+uint32 param_mask_node
+float param_mask_u
+float param_mask_v
+float param_mask_scale
+float param_mask_a_scale
+uint32 param_mask_reverse
+uint32 param_mask_debug
+uint32 padding
+uint32 padding
+fanimationcurve anim_data 32

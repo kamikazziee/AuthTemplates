@@ -1,0 +1,17 @@
+Y5 e_auth_element_noise Noise 12
+
+uint32 in_frame
+uint32 out_frame
+uint32 flags
+int32 curve_frame_num
+int32 effect_param_size
+uint32 reserved
+float power
+float size
+float unknown
+uint32 intensity
+uint32 paddingmostlikely
+uint32 paddingprobably
+uint32 paddingmaybe
+uint32 paddingquestionably
+animationcurve anim 32

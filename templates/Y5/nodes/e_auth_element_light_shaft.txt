@@ -1,0 +1,15 @@
+Y5 e_auth_element_light_shaft LightShaft 87
+
+fixedstring name 32
+float pos_x
+float pos_y
+float pos_z
+float size_x
+float size_y
+uint32 color_1_rgba
+uint32 color_2_rgba
+float unknown1
+float unknown2
+float unknown3
+uint32 flagsmaybe
+uint32 paddingprobably

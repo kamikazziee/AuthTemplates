@@ -1,0 +1,36 @@
+Y5 e_auth_element_blur Blur 8
+
+uint32 in_frame
+uint32 out_frame
+uint32 flags
+uint32 curve_frame_num
+uint32 effect_param_size
+uint32 reserved
+uint32 color_a
+uint32 color_r
+uint32 color_g
+uint32 color_b
+float center_x
+float center_y
+float pan_x
+float pan_y
+uint32 blur_type
+float scale
+uint32 is_auto_camera
+uint32 is_use_pos
+uint32 maybepadding
+uint32 maybepadding2
+uint32 maybepadding3
+uint32 is_z_mask_use
+float z_mask_start
+float z_mask_linear_dir
+uint32 padding_4
+animationcurve anim 32
+uint32 mask_type
+float mask_trans_x
+float mask_trans_y
+float mask_rotate
+float mask_scale
+float mask_alpha_scale
+uint32 mask_flag
+uint32 maybepadding4

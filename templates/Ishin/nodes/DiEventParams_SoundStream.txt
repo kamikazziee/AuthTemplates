@@ -1,0 +1,4 @@
+Ishin DiEventParams_SoundStream Stream_Playback 138
+
+uint32 bgm_id
+uint32 is_stop

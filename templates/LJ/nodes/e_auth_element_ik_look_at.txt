@@ -1,0 +1,34 @@
+LJ e_auth_element_ik_look_at IkLookAt 46
+
+uint32 m_header_version
+uint32 m_header_weight_curve_ofs
+uint32 m_header_body_curve_ofs
+uint32 m_header_eye_curve_ofs
+uint32 m_header_target_ofs
+float m_header_weight
+float m_header_body
+float m_header_eye
+uint32 m_header_mode
+float m_header_x
+float m_header_y
+float m_header_z
+uint32 m_header_flag
+uint32 m_header_guid_id_0
+uint32 m_header_guid_id_1
+uint32 m_header_guid_id_2
+uint32 m_header_guid_id_3
+float m_header_face_z
+uint32 m_header_face_z_curve_ofs
+float m_header_look_fi
+float m_header_look_fo
+float m_header_body_fi
+float m_header_body_fo
+float m_header_eye_fi
+float m_header_eye_fo
+float m_header_face_z_fi
+float m_header_face_z_fo
+float m_header_chain_start
+float m_header_chain_end
+float m_header_buffer_range
+float m_header_buffer_range_fi
+float m_header_buffer_range_fo

@@ -1,0 +1,5 @@
+LJ e_auth_element_authstream Authstream 96
+
+uint32 cue_id
+uint32 unknown
+fixedstring cuesheet_name 16
